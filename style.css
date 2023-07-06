@@ -257,7 +257,7 @@ nav {
   .product-detail-close:hover {
     cursor: pointer;
   }
-  #productdetail > img:nth-child(2) {
+  img:nth-child(2) {
     width: 100%;
     height: 360px;
     object-fit: cover;
